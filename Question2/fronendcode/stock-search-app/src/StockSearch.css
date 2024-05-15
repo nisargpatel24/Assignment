@@ -1,0 +1,39 @@
+/* src/StockSearch.css */
+.date-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+  }
+  
+  .search-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745; /* Green background */
+    color: white;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .stock-data {
+    margin-top: 20px;
+  }
+  
+  .stock-data-heading {
+    background-color: #333; /* Dark gray background */
+    color: #031e09; /* Green text */
+    padding: 10px;
+    border-radius: 4px;
+  }
+  

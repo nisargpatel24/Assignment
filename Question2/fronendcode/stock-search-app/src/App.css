@@ -1,0 +1,24 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+.App h1 {
+  background-color: #333; /* Dark grey background */
+  color: #28a745; /* Green text */
+  font-weight: bold; /* Bold text */
+  padding: 1px;
+  border-radius: 1px;
+}
+
+
+
+.search-button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: #031307; /* Green background */
+  color: rgb(4, 16, 4);
+  cursor: pointer;
+}
